@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables (API keys etc)
+.env
+
+# WhatsApp session credentials - NEVER push these!
+session/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
