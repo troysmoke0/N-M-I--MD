@@ -1,0 +1,26 @@
+{
+  "name": "nemesis-md",
+  "version": "1.0.0",
+  "description": "Advanced WhatsApp AI Bot using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "ai",
+    "nemesis-md"
+  ],
+  "author": "Sir_JID",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pino": "^9.2.0",
+    "yt-search": "^2.12.1"
+  }
+}
